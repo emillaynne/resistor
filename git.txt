@@ -1,0 +1,5 @@
+git remoto adicionar origem https://github.com/emillaynne/resistor.git
+ git branch -M main 
+git push -u origin main
+
+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
